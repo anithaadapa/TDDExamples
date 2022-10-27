@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T15:20:54 EDT" name="Default suite" finished-at="2022-06-14T15:20:54 EDT" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T15:20:54 EDT" name="Default test" finished-at="2022-06-14T15:20:54 EDT" duration-ms="43">
+      <class name="com.unittestcases.CalculatorAppUnitTestCases">
+        <test-method signature="AddTwoNumbers()[pri:0, instance:com.unittestcases.CalculatorAppUnitTestCases@68c72235]" started-at="2022-06-14T15:20:54 EDT" name="AddTwoNumbers" finished-at="2022-06-14T15:20:54 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwoNumbers -->
+        <test-method signature="AddTwoNumbersWithSecondValueAs0()[pri:0, instance:com.unittestcases.CalculatorAppUnitTestCases@68c72235]" started-at="2022-06-14T15:20:54 EDT" name="AddTwoNumbersWithSecondValueAs0" finished-at="2022-06-14T15:20:54 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwoNumbersWithSecondValueAs0 -->
+        <test-method signature="AddTwoNumbersWithSecondValueAsString()[pri:0, instance:com.unittestcases.CalculatorAppUnitTestCases@68c72235]" started-at="2022-06-14T15:20:54 EDT" name="AddTwoNumbersWithSecondValueAsString" finished-at="2022-06-14T15:20:54 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwoNumbersWithSecondValueAsString -->
+        <test-method signature="WhenNumbersAreGreaterThanTwo()[pri:0, instance:com.unittestcases.CalculatorAppUnitTestCases@68c72235]" started-at="2022-06-14T15:20:54 EDT" name="WhenNumbersAreGreaterThanTwo" finished-at="2022-06-14T15:20:54 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhenNumbersAreGreaterThanTwo -->
+        <test-method signature="WhenOneNumberIsGiven()[pri:0, instance:com.unittestcases.CalculatorAppUnitTestCases@68c72235]" started-at="2022-06-14T15:20:54 EDT" name="WhenOneNumberIsGiven" finished-at="2022-06-14T15:20:54 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhenOneNumberIsGiven -->
+      </class> <!-- com.unittestcases.CalculatorAppUnitTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
